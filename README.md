@@ -140,7 +140,7 @@ urlpatterns=[
 
 ## SERVER SIDE PROCESSING :
 ![alt text](<Screenshot (18).png>)
-
+![alt text](<Screenshot (22).png>)
 
 
 ## HOMEPAGE:
